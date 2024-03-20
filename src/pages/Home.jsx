@@ -18,7 +18,7 @@ const Home = () => {
             </div>
             <div className='flex justify-center items-center flex-col mt-7.6rem gap-2'>
                 <p className=' text-[2rem] md:text-[2.8rem] font-[700] text-fontcolor ml-50px '>Join Us</p>
-                <div className='flex sm:gap-10 md:gap-8 gap-2 items-center justify-center md:mb-4'>
+                <div className='flex sm:gap-10 md:gap-8 gap-2 items-center justify-center md:mb-4 md:ml-27px'>
                     <a href="https://twitter.com/sigmoidwtf" className='flex items-center justify-center gap-2'>
 
                         <FaXTwitter className='text-orange-700' />

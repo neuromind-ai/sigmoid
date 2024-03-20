@@ -35,7 +35,8 @@ export default {
       margin:{
         "4.3rem":"4.3rem",
         "7.6rem":"7.6rem",
-        "50px":"50px"
+        "50px":"50px",
+        "27px":"27px"
       }
       
     },
