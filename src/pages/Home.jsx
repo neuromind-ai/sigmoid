@@ -22,7 +22,7 @@ const Home = () => {
                     <a href="https://twitter.com/sigmoidwtf" className='flex items-center justify-center gap-2'>
 
                         <FaXTwitter className='text-orange-700' />
-                       <p className=' font-[600] text-fontcolor '> @sigmoidwtf</p>
+                       <p className=' font-[600] text-fontcolor -ml-1 '> @sigmoidwtf</p>
                     </a>
                    <img className='h-4 md:h-6 w-8 font-[600]' src={line} alt="" />
                     <a href="mailto:hi@sigmoid.wtf" className='flex items-center justify-center gap-2'>
