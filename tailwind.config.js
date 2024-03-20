@@ -22,7 +22,9 @@ export default {
         "2.8rem":"2.8rem",
         "11.3rem":"11.3rem",
         "16.3rem":"16.3rem",
-        "7.5rem":"7.5rem"
+        "7.5rem":"7.5rem",
+        "24rem":"24rem",
+        "27.5rem":"27.5rem"
       },
       colors:{
         "custom-bg-color":"#FEFAE0"

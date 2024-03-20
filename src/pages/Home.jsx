@@ -5,11 +5,11 @@ import { TfiEmail } from "react-icons/tfi";
 import line from '../assets/line.svg'
 const Home = () => {
     return (
-        <div className='  md:pt-2.8rem md:pb-0 md:px-60 pb-44 pt-16.3rem px-8'>
+        <div className='  lg:pt-2.8rem lg:pb-0 lg:px-60  pt-11 px-8'>
 
       
-        <div className='flex justify-center items-center flex-col  px-4 pt-4 gap-24 md:gap-7.5rem bg-custom-bg-color '>
-            <div className='md:mt-12 mt-9'>
+        <div className='flex justify-center items-center flex-col  px-4 pt-4 gap-24rem md:gap-27.5rem lg:gap-7.5rem bg-custom-bg-color '>
+            <div className='md:mt-12 mt-36'>
                 <div className='flex items-center justify-center gap-4'>
                     <img className='md:w-16 h-16 w-8 text-fontcolor' src={logo} alt="" />
                     <p className='text-fontcolor md:text-[3.5rem] text-[2rem] font-[700] '>sigmoid</p>
